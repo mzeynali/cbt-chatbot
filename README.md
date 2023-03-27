@@ -19,5 +19,7 @@ Then enter the below url in your browser.
 
 
 ```
-http://Yout_IP_Address:8501/
+http://Your_IP_Address:8501/
 ```
+
+The teenager write the answer corresponding to therapist question then press enter ,So if message **not related** not appear, then click on **New Question**

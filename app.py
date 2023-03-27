@@ -34,13 +34,13 @@ def generate_response(question_input: str):
         model="gpt-3.5-turbo",
         messages=[
             {
-                "role": "system",
+                "role": "user",
                 "content": f"{question_input}"
             },
         ])
 
 
-st.title("🤖 Glows Chatbot 🤖")
+st.title("🤖 CBT Chatbot 🤖")
 
 os.environ["OPENAI_API_KEY"] = "Your_API-KEY"
 

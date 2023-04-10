@@ -3,3 +3,4 @@ langchain
 streamlit
 streamlit-chat
 streamlit-autorefresh
+python-decouple
